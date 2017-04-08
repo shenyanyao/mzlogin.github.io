@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Git
+title: Git useful command
 categories: Git
 description: Git 常用操作记录。
 keywords: Git, 版本控制
