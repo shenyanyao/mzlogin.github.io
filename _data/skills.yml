@@ -1,19 +1,20 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
       - C++
       - Python
+      - Java
       - Design Patterns
 
-- name: Mobile Developer Keywords
+- name: Deep Learning Toolkits
   keywords:
-      - Android
-      - Reverse Engineering
+      - MXNet
+      - Tensorflow
 
-- name: Windows Developer Keywords
+- name: Research Interest
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Theoretic Machine Learning
+      - Learning Theory
+      - Deep Learning
+      - Reinforcement Learning
+      - Wireless Communication
+      - CV/NLP/SSP
