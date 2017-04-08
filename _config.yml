@@ -29,23 +29,23 @@ email: shenyanyao@utexas.edu
 navs:
   -
     href: /
-    label: 首页
+    label: 首页-homepage
 
   -
     href: /categories/
-    label: 分类
+    label: 分类-categories
 
   -
     href: /wiki/
-    label: 维基
+    label: 维基-wiki
 
   -
     href: /resume/
-    label: 链接
+    label: 简历-resume
 
   -
     href: /about/
-    label: 关于
+    label: 关于-about
 
 # ---------------- #
 #       RSS        #

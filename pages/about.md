@@ -8,8 +8,9 @@ menu: 关于
 permalink: /about/
 ---
 
-My name is Yanyao Shen, I am interested in understanding the core of machine learning that provides the foundation to solve useful problems. 
-## 联系
+> My name is Yanyao Shen, I am interested in understanding the core techniques of machine learning that provides the foundation to solve useful problems. 
+
+## Contact
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
