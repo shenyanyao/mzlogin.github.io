@@ -3,7 +3,11 @@
       - C++
       - Python
       - Java
-      - Design Patterns
+      - Matlab
+      - Tex
+      - Bash
+      - Stata
+      - Javascript
 
 - name: Deep Learning Toolkits
   keywords:

@@ -7,8 +7,12 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
+## About Me
+> Hi, I am Yanyao, a second year Ph.D. student at Electrical and Computer Engineering, University of Texas at Austin. 
 
-> My name is Yanyao Shen, I am interested in understanding the core techniques of machine learning that provides the foundation to solve useful problems. 
+> I am fortunate to have Prof. Sujay Sanghavi to be my advisor. Before coming to UT, I got my Bachelor Degree from Tsinghua University in China, majored in Electronics and Electrical Engineering. My current research interest widely lies in the field of machine learning, statistical learning theory, and artificial intelligence.
+
+> The need for good algorithms is exploding in many fields of our world. Understanding the mechanism of the algorithms, as well as their requirement, pros and cons, is the cornerstone of designing more advanced algorithms targeting on different applications. I am interested in designing those algorithms that can significantly improve the performance in present-day challenging applications with solid theoretic understanding of the algorithm and its performance. 
 
 ## Contact
 
